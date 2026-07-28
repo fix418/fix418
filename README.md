@@ -7,17 +7,6 @@
   <img src="https://img.shields.io/github/followers/fix418?label=FOLLOWERS&style=for-the-badge&color=16a34a&labelColor=020604" alt="Followers" />
 </div>
 
-## `> whoami`
-
-```ts
-const developer = {
-  username: "fix418",
-  focus: ["Full-stack TypeScript", "Modern C++", "Clean architecture"],
-  building: "fast, reliable and maintainable software",
-  status: "always learning",
-};
-```
-
 ## `> tech --stack`
 
 <div align="center">
