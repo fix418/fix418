@@ -51,8 +51,8 @@ const developer = {
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fix418&bg_color=020604&color=86EFAC&line=22C55E&point=A3E635&area=true&area_color=14532D&hide_border=true" alt="Contribution graph" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fix418/fix418/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/fix418/fix418/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fix418/fix418/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/fix418/fix418/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
   </picture>
 </div>
 
