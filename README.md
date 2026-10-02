@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/github/followers/fix418?label=FOLLOWERS&style=for-the-badge&color=16a34a&labelColor=020604" alt="Followers" />
 </div>
 
+<p align="center">
+  <a href="https://mdwit.dev/anthropic/">
+    <img src="https://mdwit.dev/anthropic-shit-company.svg" alt="ANTHROPIC | SHIT COMPANY" />
+  </a>
+</p>
+
 ## `> tech --stack`
 
 <div align="center">
